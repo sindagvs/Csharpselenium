@@ -7,7 +7,7 @@ namespace seleniumconcept
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main6(string[] args)
         {
             IWebDriver driver = new ChromeDriver();
             driver.Manage().Window.Maximize();

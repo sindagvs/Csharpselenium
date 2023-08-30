@@ -6,16 +6,17 @@ using System.Text;
 
 namespace seleniumconcept
 {
-    class DemoSalesForce
+    class Demo7Frame
     {
-        public static void Main2(string[] args)
+        public static void Main(string[] args)
         {
-            //selenium concepts.
             IWebDriver driver = new ChromeDriver();
             driver.Manage().Window.Maximize();
-            driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(20);
+            driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
 
-                        driver.Url = "https://www.salesforce.com/in/form/signup/freetrial-sales/";
+           driver.Url = "https://netbanking.hdfcbank.com/netbanking/IpinResetUsingOTP.htm";
+
+            //click on go
 
 
 
