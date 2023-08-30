@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "egc8nKn34MGuQl+NSP2nQiiRagTTt82YrueNUEWzTNADTEGwhSERgIJ7I7UFRg2n/cGhqM2SXag1w7o5bAeV9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sindagvs\\source\\repos\\seleniumconcept\\seleniumconcept\\seleniumconcept.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sindagvs\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\sindagvs\\.nuget\\packages\\selenium.support\\4.11.0\\selenium.support.4.11.0.nupkg.sha512",
+    "C:\\Users\\sindagvs\\.nuget\\packages\\selenium.webdriver\\4.11.0\\selenium.webdriver.4.11.0.nupkg.sha512",
+    "C:\\Users\\sindagvs\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
